@@ -51,10 +51,7 @@ body {
     text-align: center;
 }
 
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 15px;
+.https://imgur.com/a/ckQi604
 }
 
 .gallery img {
